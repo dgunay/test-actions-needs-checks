@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - run: echo "doing testing"
+      - run: "false"
       
   # This workflow contains a single job called "build"
   build:
